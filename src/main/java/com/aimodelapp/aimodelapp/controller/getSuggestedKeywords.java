@@ -22,7 +22,7 @@ public class getSuggestedKeywords {
     private List<String> getSuggestionsBasedOnKeyword(String category) {
 
 
-            return List.of("souris", "clavier", "webcam");
+            return List.of("laptop",  "ssd");
 
 
     }
